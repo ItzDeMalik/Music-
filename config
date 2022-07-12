@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	fileMode = false
+	bare = false
+	logallrefupdates = true
+[user]
+	name = sestro09
+	email = <>
+[branch "main"]
+[remote "origin"]
+	url = https://github.com/ItzDeMalik/Music-
+	fetch = +refs/heads/*:refs/remotes/origin/*
